@@ -19,7 +19,7 @@ Os usuários devem ser capazes de visualizar o layout em versões para desktop e
 <img src="./src/images/agencia2.gif">
 
 ### Link
-- [Projeto]()
+- [Projeto](https://devseravali.github.io/projeto-lp-grid-e-flex/)
 
 ### Tecnologias utilizadas
 - HTML
